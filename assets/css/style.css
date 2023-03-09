@@ -1,8 +1,8 @@
 
 
 :root {
-    --primary-color: purple;
-    --dark-color: #333333;
+    --primary-color:   #b30059;
+    --dark-color:  #4d0026;
     --light-color: #f4f4f4;
     --lose-color: #dc3545;
     --win-color: #28a745;
@@ -17,7 +17,7 @@
 body {
     font-family: 'bebas neue', sans-serif;
     line-height: 1.6;
-    background: pink;
+    background:  #ff80bf;
     color: #333;
 }
 
