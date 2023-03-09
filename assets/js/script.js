@@ -86,7 +86,7 @@ function showWinner(winner, computerChoice) {
         `;
         document.getElementById("draw-sound").play();
     }
-    // Show score 
+    // Show the score 
     score.innerHTML = `
     <p>Player: ${scoreboard.player}</p>
     <p>Computer: ${scoreboard.computer}</p>
