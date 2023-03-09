@@ -20,7 +20,7 @@ function play(e) {
     showWinner(winner, computerChoice);
 }
 
-// Get Computer Choice
+// Computer Choices 
 function getComputerChoice() {
     const rand = Math.random();
     if (rand < 0.34) {
@@ -32,7 +32,7 @@ function getComputerChoice() {
     }
 }
 
-// Get game winner
+// Give a winner 
 function getWinner(p, c) {
     if (p === c) {
         return 'draw';
@@ -59,9 +59,9 @@ function getWinner(p, c) {
 
 function showWinner(winner, computerChoice) {
     if (winner === 'player') {
-        // Inc player score
+        
         scoreboard.player++;
-        // Show modal result
+        // Show the result of the modal
         result.innerHTML = `
         <h1 class="text-win">You Win</h1>
         <i class="fas fa-hand-${computerChoice} fa-10x"></i>
