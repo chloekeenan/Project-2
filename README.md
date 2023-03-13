@@ -42,9 +42,10 @@ A simple game of Rock, Paper, Scissors using HTML, CSS and JavaScript.
 [HTML Validator](https://validator.w3.org/nu/#textarea)
 
 
-
 - CSS: When running through the official W3C validator, no issues were reported. 
 [CSS Validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fchloekeenan.github.io%2FProject-2%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
+
+- JavaScript: JavaScript was tested using (https://jshint.com/)
 
 - Lighthouse: The results of testing the website using Lighthouse are listed below:
 
@@ -82,18 +83,13 @@ You can view the link here: (https://chloekeenan.github.io/Project-2/)
 
 **Key Psychographics**
 
-- Strongly values friendships and community.
-
-- Interested in meditation and self care. 
-
-- Enjoys travelling solo. 
 
 
 **Preferred Content Type**
   - Social Media Posts. 
 
 
-# Unfixed Bugs
+
 
 
 # Credits 
@@ -105,6 +101,8 @@ You can view the link here: (https://chloekeenan.github.io/Project-2/)
 - (https://codeinstitute.net/ie/) was used for inspiration for the project by following the Love Maths tutorial. 
 
 - (https://www.w3schools.com/colors/colors_picker.asp) was used to find the HEC color code.
+
+- The Book 'JavaScript for Dummies' by Chris Minnick and Eva Holland was used to learn the basics of JavaScript. 
 
 - I would like to also credit the amazing tutors at The Code Institute for all of their help. 
 
