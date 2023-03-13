@@ -41,7 +41,7 @@ A simple game of Rock, Paper, Scissors using HTML, CSS and JavaScript.
 # Validation Testing
 
 - HTML: When running through the official W3C validator, no issues were reported.
-[HTML Validator](https://validator.w3.org/nu/#textarea)
+[HTML Validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fchloekeenan.github.io%2FProject-2%2F)
 
 
 - CSS: When running through the official W3C validator, no issues were reported. 
