@@ -25,7 +25,9 @@ A simple game of Rock, Paper, Scissors using HTML, CSS and JavaScript.
 
 # Future Features
 
-- I'd like to add a multiplayer mode to the game, so the user can play against either a human or a machine.
+- I'd like to add a multiplayer mode to the game, so the user can play against either a human or a machine. 
+
+- I would like for another user to be able to join the game on a seperate device so they could play against each other.
 
 
 # Testing 
@@ -87,7 +89,7 @@ You can view the link here: (https://chloekeenan.github.io/Project-2/)
 
 - (https://codeinstitute.net/ie/) was used for inspiration for the project by following the Love Maths tutorial. 
 
-- (https://www.w3schools.com/colors/colors_picker.asp) was used to find the HEC color code.
+- (https://www.w3schools.com/colors/colors_picker.asp) was used to find the HEX color code.
 
 - The Book 'JavaScript for Dummies' by Chris Minnick and Eva Holland was used to learn the basics of JavaScript. 
 
@@ -98,3 +100,8 @@ You can view the link here: (https://chloekeenan.github.io/Project-2/)
 - All Audio used in the game were taken from Pixabay (https://pixabay.com/sound-effects/search/no/?manual_search=1&order=None)
 
 - All icons used in the game were taken from Font Awesome (https://fontawesome.com/)
+
+# Scripts
+ 
+- Code for the game was inspired by : Rock Paper Scissors Game - UI & JavaScript (https://youtu.be/WR_pWXJZiRY) Brad Travery at https://codepen.io/bradtraversy/pen/wLgPzr
+
