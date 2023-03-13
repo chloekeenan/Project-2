@@ -39,11 +39,12 @@ A simple game of Rock, Paper, Scissors using HTML, CSS and JavaScript.
 # Validation Testing
 
 - HTML: When running through the official W3C validator, no issues were reported.
+[HTML Validator](https://validator.w3.org/nu/#textarea)
 
 
 
 - CSS: When running through the official W3C validator, no issues were reported. 
-
+[CSS Validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fchloekeenan.github.io%2FProject-2%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
 
 - Lighthouse: The results of testing the website using Lighthouse are listed below:
 
