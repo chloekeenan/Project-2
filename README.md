@@ -9,7 +9,8 @@ A simple game of Rock, Paper, Scissors using HTML, CSS and JavaScript.
 
 
 # Current Features
- 
+**Header**
+- The 'Rock Paper Scissors' header sits at the top of the page and shows the name of the game in a minimalistic font.
  
 
 
