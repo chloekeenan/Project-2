@@ -53,9 +53,6 @@ A simple game of Rock, Paper, Scissors using HTML, CSS and JavaScript.
 
 
 
-
-
-
 # Deployment 
 
 - Github Pages was used to deploy the website. The following are the deployment steps:
@@ -71,7 +68,7 @@ You can view the link here: (https://chloekeenan.github.io/Project-2/)
 
 # User Goals 
 **As a user I want to:**
-
+- The aim of the game is that Rock wins over scissors, scissors win over paper, and paper wins over rock. The goal is to play an item that outperforms the item chosen at random by the computer.
 
 
 # Target Audience 
@@ -80,8 +77,6 @@ You can view the link here: (https://chloekeenan.github.io/Project-2/)
 - Age 12-25 
 
 - 50% Female 50% Male 
-
-**Key Psychographics**
 
 
 
