@@ -22,9 +22,10 @@ A simple game of Rock, Paper, Scissors using HTML, CSS and JavaScript.
 **Game Results**
 - The scores are recorded in the two score boxes, which are clearly designated in an outline color that corresponds to the game field's icon colors.
 
+
 # Future Features
 
-
+- I'd like to add a multiplayer mode to the game, so the user can play against either a human or a machine.
 
 
 # Testing 
