@@ -48,7 +48,7 @@ A simple game of Rock, Paper, Scissors using HTML, CSS and JavaScript.
 
 - Lighthouse: The results of testing the website using Lighthouse are listed below:
 
-
+ ![Lighthouse Results](assets/images/Lighthouse%20.png)
 
 
 
