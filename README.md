@@ -76,9 +76,9 @@ You can view the link here: (https://chloekeenan.github.io/Project-2/)
 # Target Audience 
 **Key Demographics**
 
-- Age 18-29 
+- Age 12-25 
 
-- 80% Female 20% Male 
+- 50% Female 50% Male 
 
 **Key Psychographics**
 
@@ -88,9 +88,6 @@ You can view the link here: (https://chloekeenan.github.io/Project-2/)
 
 - Enjoys travelling solo. 
 
-**Preferred Channels**
-
-- Follows users on Instagram promoting meditation and retreats. 
 
 **Preferred Content Type**
   - Social Media Posts. 
@@ -103,12 +100,15 @@ You can view the link here: (https://chloekeenan.github.io/Project-2/)
 
 - Rock Paper Scissors Game - UI & JavaScript (https://youtu.be/WR_pWXJZiRY) vide on Youtube was used to inspire me and help with the structure of the game.  
 
+- (https://www.w3schools.com/) was used to help learn JavaScript and implement it into my project. 
 
+- (https://codeinstitute.net/ie/) was used for inspiration for the project by following the Love Maths tutorial. 
+
+- (https://www.w3schools.com/colors/colors_picker.asp) was used to find the HEC color code.
 
 - I would like to also credit the amazing tutors at The Code Institute for all of their help. 
 
 # Media
 
- - Fonts Used: 
 
-- All icons were taken from Font Awesome https://fontawesome.com/
+- All icons used in the game were taken from Font Awesome (https://fontawesome.com/)
