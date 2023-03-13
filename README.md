@@ -101,7 +101,7 @@ You can view the link here: (https://chloekeenan.github.io/Project-2/)
 
 # Credits 
 
-https://youtu.be/WR_pWXJZiRY 
+- Rock Paper Scissors Game - UI & JavaScript (https://youtu.be/WR_pWXJZiRY) vide on Youtube was used to inspire me and help with the structure of the game.  
 
 
 
