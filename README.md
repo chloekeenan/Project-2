@@ -79,14 +79,6 @@ You can view the link here: (https://chloekeenan.github.io/Project-2/)
 - 50% Female 50% Male 
 
 
-
-**Preferred Content Type**
-  - Social Media Posts. 
-
-
-
-
-
 # Credits 
 
 - Rock Paper Scissors Game - UI & JavaScript (https://youtu.be/WR_pWXJZiRY) vide on Youtube was used to inspire me and help with the structure of the game.  
@@ -103,5 +95,6 @@ You can view the link here: (https://chloekeenan.github.io/Project-2/)
 
 # Media
 
+- (https://pixabay.com/sound-effects/search/no/?manual_search=1&order=None)
 
 - All icons used in the game were taken from Font Awesome (https://fontawesome.com/)
