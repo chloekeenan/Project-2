@@ -75,6 +75,8 @@ You can view the link here: (https://chloekeenan.github.io/Project-2/)
 
 # User Goals 
 **As a user I want to:**
+- As a user I want to be able to navigate the game easily and keep track of my wins against the computer. 
+
 - The aim of the game is that Rock wins over scissors, scissors win over paper, and paper wins over rock. The goal is to play an item that outperforms the item chosen at random by the computer.
 
 
@@ -88,7 +90,7 @@ You can view the link here: (https://chloekeenan.github.io/Project-2/)
 
 # Credits 
 
-- Rock Paper Scissors Game - UI & JavaScript (https://youtu.be/WR_pWXJZiRY) vide on Youtube was used to inspire me and help with the structure of the game.  
+- Rock Paper Scissors Game - UI & JavaScript (https://youtu.be/WR_pWXJZiRY) video on Youtube was used to inspire me and help with the structure of the game.  
 
 - (https://www.w3schools.com/) was used to help learn JavaScript and implement it into my project. 
 
