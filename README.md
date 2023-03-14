@@ -116,6 +116,8 @@ You can view the link here: (https://chloekeenan.github.io/Project-2/)
 
 - All icons used in the game were taken from Font Awesome (https://fontawesome.com/)
 
+- The icon used in the favicon was taken from FavIcon.io (https://favicon.io/)
+
 # Frameworks and Libraries
  
 - Code for the game was inspired by : Rock Paper Scissors Game - UI & JavaScript (https://youtu.be/WR_pWXJZiRY) Brad Travery at https://codepen.io/bradtraversy/pen/wLgPzr
