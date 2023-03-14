@@ -28,6 +28,14 @@ A simple game of Rock, Paper, Scissors using HTML, CSS and JavaScript.
 
    ![Score](assets/images/game.png)
 
+   **Favicon**
+
+- I added a scissors favicon to the game to represent the scissors in Rock Paper, Scissors!
+
+
+   ![Favicon](assets/images/android-chrome-192x192.png)
+
+
 # Future Features
 
 - I'd like to add a multiplayer mode to the game, so the user can play against either a human or a machine. 
