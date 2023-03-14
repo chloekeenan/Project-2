@@ -3,7 +3,7 @@
 
 A simple game of Rock, Paper, Scissors using HTML, CSS and JavaScript.
 
-[View Live Site]( https://chloekeenan.github.io/Project-2/)
+[View Live Site](https://chloekeenan.github.io/Project-2/)
 
    ![AMIRESPONSIVE](assets/images/responsive.png)
 
