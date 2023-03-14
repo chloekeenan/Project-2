@@ -8,7 +8,7 @@ const scoreboard = {
     computer: 0
 };
 
-var audio = document.getElementById("bg-sound");
+var audio = document.getElementById("");
 audio.volume = 0.25;
 
 // Play game
@@ -64,7 +64,7 @@ function showWinner(winner, computerChoice) {
         // Show the result of the modal
         result.innerHTML = `
         <h1 class="text-win">You Win</h1>
-        <i class="fas fa-hand-${computerChoice} fa-10x"></i>
+        <i class="fa-solid fa-hand-back-fist-${computerChoice} fa-10x"></i>
         <p>Computer Chose <strong>${computerChoice.charAt(0).toUpperCase() + computerChoice.slice(1)}</strong></p>
         `;
         document.getElementById("win-sound").play();
@@ -74,14 +74,14 @@ function showWinner(winner, computerChoice) {
         // Show modal result
         result.innerHTML = `
         <h1 class="text-lose">You Lose</h1>
-        <i class="fas fa-hand-${computerChoice} fa-10x"></i>
+        <i class="fa-solid fa-hand-back-fist-${computerChoice} fa-10x"></i>
         <p>Computer Chose <strong>${computerChoice.charAt(0).toUpperCase() + computerChoice.slice(1)}</strong></p>
         `;
         document.getElementById("lose-sound").play();
     } else {
         result.innerHTML = `
         <h1>It's a Draw</h1>
-        <i class="fas fa-hand-${computerChoice} fa-10x"></i>
+        <i class="fa-solid fa-hand-back-fist-${computerChoice} fa-10x"></i>
         <p>Computer Chose <strong>${computerChoice.charAt(0).toUpperCase() + computerChoice.slice(1)}</strong></p>
         `;
         document.getElementById("draw-sound").play();
