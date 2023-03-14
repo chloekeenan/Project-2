@@ -15,13 +15,18 @@ A simple game of Rock, Paper, Scissors using HTML, CSS and JavaScript.
 **Game Interface**
 - The game interface displays three different icons to choose from which are rock, paper and scissors.
 
-- When the user touches an icon, it turns a darkk purple, indicating that it can be clicked on. 
+- When the user touches an icon, it turns a dark purple, indicating that it can be clicked on. 
 
 - When clicked, the game result will be shown immediately. It will be either a Win, Lose or Draw.
+
+   ![Win](assets/images/win.png)
+      ![Lose](assets/images/lose.png)
+         ![Draw](assets/images/Draw.png)
 
 **Game Results**
 - The scores are recorded in the two score boxes, which are clearly designated in an outline color that corresponds to the game field's icon colors.
 
+   ![Score](assets/images/game.png)
 
 # Future Features
 
