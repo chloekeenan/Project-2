@@ -108,7 +108,7 @@ You can view the link here: (https://chloekeenan.github.io/Project-2/)
 
 - The Book 'JavaScript for Dummies' by Chris Minnick and Eva Holland was used to learn the basics of JavaScript. 
 
-- I would like to also credit the amazing tutors at The Code Institute for all of their help. 
+- I would like to also credit Sarah, the amazing tutor at The Code Institute for all of their help with the favicon. 
 
 # Media
 
